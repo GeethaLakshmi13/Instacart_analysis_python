@@ -6,7 +6,7 @@ The project focused on Instacart, an online grocery store that operates through 
 
 # Skills used
 Data cleaning, wrangling & subsetting. Data consistency checks. Combining and Exporting. Deriving new variables. Grouping and aggregating variables. Data visualization with Python. Coding etiquette and Excel reporting.
-
+ 
 #Tools used
 Microsoft Word, Microsoft Excel, Microsoft PowerPoint, Python, Jupyter, Pandas, Numpy, Matplotlib, Seaborn, Scipy.
 
